@@ -23,6 +23,20 @@ Adjust visualizations: Customize visuals to match your specific requirements.
 
 Add new measures and calculations: Create calculated fields to derive additional insights.
 
+
+
+## Website Performance
+This Power BI dashboard provides a comprehensive analysis of website performance, focusing on website types, viewership, turnover rates, and regional trends. It offers interactive visualizations to uncover insights and support data-driven decision-making.
+
+
+Dashboard Components
+Website Type Performance:
+Comparison of website types based on views, turnover rates, and other relevant metrics.
+Geographic Analysis:
+Website performance by region, including viewership and turnover rates.
+User Behavior:
+User engagement metrics (e.g., bounce rate, time on site) by website type.
+
 Contact
 
 Kaushik Roy
