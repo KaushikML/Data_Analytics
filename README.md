@@ -16,11 +16,17 @@ How to Use
 Open the Power BI report file.
 Interact with visualizations: Use filters, slicers, and drill-down capabilities to explore data.
 Export data: Export data to Excel or CSV for further analysis.
+
 Customization
 Modify data sources: Update connections to data sources if necessary.
 Adjust visualizations: Customize visuals to match your specific requirements.
+
 Add new measures and calculations: Create calculated fields to derive additional insights.
+
 Contact
+
 Kaushik Roy
+
 roykaushik354@gmail.com
+
 Note: Replace the placeholder text with specific details about your dashboard.
